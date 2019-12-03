@@ -1,0 +1,64 @@
+﻿  main.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\minwindef.h(130,1): warning C4005: 'APIENTRY': macro redefinition
+C:\Users\Ben\Desktop\A3 - Audio Visualizer\Source\glfw-3.3.bin.WIN32\include\GLFW\glfw3.h(104): message : see previous definition of 'APIENTRY'
+C:\Users\Ben\Desktop\A3 - Audio Visualizer\Source\OpenGL\vector.h(141,14): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\Ben\Desktop\A3 - Audio Visualizer\Source\OpenGL\matrix.h(189,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Ben\Desktop\A3 - Audio Visualizer\Source\OpenGL\matrix.h(190,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt_math_defines.h(22,1): warning C4005: 'M_PI': macro redefinition
+C:\Users\Ben\Desktop\A3 - Audio Visualizer\Source\OpenGL\matrix.h(6): message : see previous definition of 'M_PI'
+C:\Users\Ben\Desktop\A3 - Audio Visualizer\Source\OpenGL\triangle_demo.h(84,64): warning C4474: 'printf' : too many arguments passed for format string
+C:\Users\Ben\Desktop\A3 - Audio Visualizer\Source\OpenGL\triangle_demo.h(84,64): message : placeholders and their parameters expect 0 variadic arguments, but 2 were provided
+C:\Users\Ben\Desktop\A3 - Audio Visualizer\Source\OpenGL\triangle_demo.h(406,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Ben\Desktop\A3 - Audio Visualizer\Source\OpenGL\triangle_demo.h(437,1): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Ben\Desktop\A3 - Audio Visualizer\Source\OpenGL\triangle_demo.h(473,4): warning C4838: conversion from 'int' to 'GLubyte' requires a narrowing conversion
+C:\Users\Ben\Desktop\A3 - Audio Visualizer\Source\OpenGL\triangle_demo.h(473,7): warning C4838: conversion from 'int' to 'GLubyte' requires a narrowing conversion
+C:\Users\Ben\Desktop\A3 - Audio Visualizer\Source\OpenGL\triangle_demo.h(473,10): warning C4838: conversion from 'int' to 'GLubyte' requires a narrowing conversion
+C:\Users\Ben\Desktop\A3 - Audio Visualizer\Source\OpenGL\triangle_demo.h(473,13): warning C4838: conversion from 'int' to 'GLubyte' requires a narrowing conversion
+C:\Users\Ben\Desktop\A3 - Audio Visualizer\Source\OpenGL\triangle_demo.h(474,4): warning C4838: conversion from 'int' to 'GLubyte' requires a narrowing conversion
+C:\Users\Ben\Desktop\A3 - Audio Visualizer\Source\OpenGL\triangle_demo.h(474,7): warning C4838: conversion from 'int' to 'GLubyte' requires a narrowing conversion
+C:\Users\Ben\Desktop\A3 - Audio Visualizer\Source\OpenGL\triangle_demo.h(474,10): warning C4838: conversion from 'int' to 'GLubyte' requires a narrowing conversion
+C:\Users\Ben\Desktop\A3 - Audio Visualizer\Source\OpenGL\triangle_demo.h(474,13): warning C4838: conversion from 'int' to 'GLubyte' requires a narrowing conversion
+C:\Users\Ben\Desktop\A3 - Audio Visualizer\Source\OpenGL\triangle_demo.h(475,4): warning C4838: conversion from 'int' to 'GLubyte' requires a narrowing conversion
+C:\Users\Ben\Desktop\A3 - Audio Visualizer\Source\OpenGL\triangle_demo.h(475,7): warning C4838: conversion from 'int' to 'GLubyte' requires a narrowing conversion
+C:\Users\Ben\Desktop\A3 - Audio Visualizer\Source\OpenGL\triangle_demo.h(475,10): warning C4838: conversion from 'int' to 'GLubyte' requires a narrowing conversion
+C:\Users\Ben\Desktop\A3 - Audio Visualizer\Source\OpenGL\triangle_demo.h(475,13): warning C4838: conversion from 'int' to 'GLubyte' requires a narrowing conversion
+C:\Users\Ben\Desktop\A3 - Audio Visualizer\Source\OpenGL\triangle_demo.h(476,4): warning C4838: conversion from 'int' to 'GLubyte' requires a narrowing conversion
+C:\Users\Ben\Desktop\A3 - Audio Visualizer\Source\OpenGL\triangle_demo.h(476,7): warning C4838: conversion from 'int' to 'GLubyte' requires a narrowing conversion
+C:\Users\Ben\Desktop\A3 - Audio Visualizer\Source\OpenGL\triangle_demo.h(476,10): warning C4838: conversion from 'int' to 'GLubyte' requires a narrowing conversion
+C:\Users\Ben\Desktop\A3 - Audio Visualizer\Source\OpenGL\triangle_demo.h(476,13): warning C4838: conversion from 'int' to 'GLubyte' requires a narrowing conversion
+C:\Users\Ben\Desktop\A3 - Audio Visualizer\Source\OpenGL\triangle_demo.h(477,4): warning C4838: conversion from 'int' to 'GLubyte' requires a narrowing conversion
+C:\Users\Ben\Desktop\A3 - Audio Visualizer\Source\OpenGL\triangle_demo.h(477,7): warning C4838: conversion from 'int' to 'GLubyte' requires a narrowing conversion
+C:\Users\Ben\Desktop\A3 - Audio Visualizer\Source\OpenGL\triangle_demo.h(477,10): warning C4838: conversion from 'int' to 'GLubyte' requires a narrowing conversion
+C:\Users\Ben\Desktop\A3 - Audio Visualizer\Source\OpenGL\triangle_demo.h(477,13): warning C4838: conversion from 'int' to 'GLubyte' requires a narrowing conversion
+C:\Users\Ben\Desktop\A3 - Audio Visualizer\Source\OpenGL\triangle_demo.h(478,4): warning C4838: conversion from 'int' to 'GLubyte' requires a narrowing conversion
+C:\Users\Ben\Desktop\A3 - Audio Visualizer\Source\OpenGL\triangle_demo.h(478,7): warning C4838: conversion from 'int' to 'GLubyte' requires a narrowing conversion
+C:\Users\Ben\Desktop\A3 - Audio Visualizer\Source\OpenGL\triangle_demo.h(478,10): warning C4838: conversion from 'int' to 'GLubyte' requires a narrowing conversion
+C:\Users\Ben\Desktop\A3 - Audio Visualizer\Source\OpenGL\triangle_demo.h(478,13): warning C4838: conversion from 'int' to 'GLubyte' requires a narrowing conversion
+C:\Users\Ben\Desktop\A3 - Audio Visualizer\Source\OpenGL\triangle_demo.h(496,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Ben\Desktop\A3 - Audio Visualizer\Source\OpenGL\triangle_demo.h(497,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Ben\Desktop\A3 - Audio Visualizer\Source\OpenGL\triangle_demo.h(530,95): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Ben\Desktop\A3 - Audio Visualizer\Source\OpenGL\triangle_demo.h(530,58): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Ben\Desktop\A3 - Audio Visualizer\Source\OpenGL\triangle_demo.h(530,55): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Ben\Desktop\A3 - Audio Visualizer\Source\OpenGL\triangle_demo.h(541,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Ben\Desktop\A3 - Audio Visualizer\Source\OpenGL\triangle_demo.h(542,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Ben\Desktop\A3 - Audio Visualizer\Source\OpenGL\triangle_demo.h(567,73): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Ben\Desktop\A3 - Audio Visualizer\Source\OpenGL\triangle_demo.h(567,55): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Ben\Desktop\A3 - Audio Visualizer\Source\OpenGL\triangle_demo.h(567,52): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Ben\Desktop\A3 - Audio Visualizer\Source\OpenGL\triangle_demo.h(576,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Ben\Desktop\A3 - Audio Visualizer\Source\OpenGL\triangle_demo.h(577,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Ben\Desktop\A3 - Audio Visualizer\Source\OpenGL\triangle_demo.h(593,93): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Ben\Desktop\A3 - Audio Visualizer\Source\OpenGL\triangle_demo.h(593,51): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Ben\Desktop\A3 - Audio Visualizer\Source\OpenGL\wave_demo.h(162,1): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\Ben\Desktop\A3 - Audio Visualizer\Source\OpenGL\main.cpp(43,11): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Ben\Desktop\A3 - Audio Visualizer\Source\OpenGL\main.cpp(44,11): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Ben\Desktop\A3 - Audio Visualizer\Source\OpenGL\main.cpp(48,14): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Ben\Desktop\A3 - Audio Visualizer\Source\OpenGL\main.cpp(49,14): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Ben\Desktop\A3 - Audio Visualizer\Source\OpenGL\main.cpp(50,10): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  matrix.cpp
+C:\Users\Ben\Desktop\A3 - Audio Visualizer\Source\OpenGL\main.cpp(50,21): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Ben\Desktop\A3 - Audio Visualizer\Source\OpenGL\vector.h(141,14): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\Ben\Desktop\A3 - Audio Visualizer\Source\OpenGL\matrix.h(189,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+C:\Users\Ben\Desktop\A3 - Audio Visualizer\Source\OpenGL\matrix.h(190,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  HelloOpenGL.vcxproj -> C:\Users\Ben\Desktop\A3 - Audio Visualizer\Source\Debug\A3 - Audio Visualizer.exe

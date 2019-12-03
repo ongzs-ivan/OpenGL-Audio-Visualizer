@@ -1,0 +1,6 @@
+﻿  main.cpp
+  matrix.cpp
+C:\Users\Ben\Desktop\A3 - Audio Visualizer\OpenGL\main.cpp(1,10): fatal error C1083: Cannot open include file: 'GLFW/glfw3.h': No such file or directory
+C:\Users\Ben\Desktop\A3 - Audio Visualizer\OpenGL\vector.h(141,14): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\Ben\Desktop\A3 - Audio Visualizer\OpenGL\matrix.h(189,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Ben\Desktop\A3 - Audio Visualizer\OpenGL\matrix.h(190,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
